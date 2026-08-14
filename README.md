@@ -17,64 +17,74 @@
 
 ---
 
-## 🧠 Technical Skills
+### 💻 Programming Languages
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Programming Languages
-`C++` `Python` `SQL`
+### 🤖 AI/ML & Deep Learning
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![LSTM](https://img.shields.io/badge/LSTM-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![RNN](https://img.shields.io/badge/RNN-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-%234285F4.svg?style=for-the-badge&logo=ai&logoColor=white)
 
-### AI/ML & Deep Learning
-`scikit-learn` `TensorFlow` `LSTM` `RNN` `CNN` `OpenCV` `NLP` `Time Series Analysis`
+### 🧠 Generative AI & LLMs
+![LangChain](https://img.shields.io/badge/LangChain-%231C3C6E.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-%234285F4.svg?style=for-the-badge&logo=ai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-%238869D7.svg?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%234285F4.svg?style=for-the-badge&logo=ai&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-%234285F4.svg?style=for-the-badge&logo=meta&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-%234285F4.svg?style=for-the-badge&logo=chromadb&logoColor=white)
 
-### Generative AI & LLMs
-`LangChain` `RAG` `Multi-Agent Systems` `OpenAI/GPT` `Google Gemini` `Prompt Engineering` `Vector Databases (FAISS, ChromaDB)`
+### 📊 Data Science & Visualization
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%234285F4.svg?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-%234285F4.svg?style=for-the-badge&logo=databricks&logoColor=white)
 
-### Data Science & Visualization
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly` `EDA` `Feature Engineering`
+### 🌐 Web Frameworks & Deployment
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
 
-### Web Frameworks & Deployment
-`Flask` `Django` `FastAPI` `React.js` `Streamlit` `Community Cloud` `Render`
-
-### Databases & Tools
-`MySQL` `MongoDB` `GitHub` `GitLab` `AWS (S3, EC2)` `REST APIs` `Power BI`
-
----
-
-## 💼 Experience
-
-### AI/ML Intern @ Labmentix
-*May 2026 - July 2026*
-
-- Led full project lifecycle from requirements gathering to deployment, delivering **3 production-ready AI projects** within a 2-month internship
-- Built **LSTM and RNN** models achieving **94% R² score** for time-series forecasting on **5,000+** trading day sequences
-- Developed **Multi-Agent AI system** with RAG pipeline and LLM integration (OpenAI) achieving **92% intent detection accuracy**
+### 🗄️ Databases & Tools
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-%234285F4.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
 ## 🚀 Projects
 
 ### 📈 Stock Price Forecasting
-*March 2026 - April 2026* | `Python` `TensorFlow` `Streamlit` `scikit-learn` `Pandas` | [Demo]()
-
-- Developed LSTM and SimpleRNN deep learning models to forecast Tesla (TSLA) adjusted-close stock prices using 60-day sliding window sequences
-- Engineered comprehensive preprocessing pipeline including MinMaxScaler normalization, lag-based feature engineering, and train-test split validation
-- Achieved **94% R² score** with SimpleRNN, outperforming LSTM's 91%, with RMSE of 2.45 and MAE of 1.87 on test data across 5,000+ trading day sequences
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 
 ### 🛍️ Shoper Spectrum - Customer Intelligence Platform
-*May 2026 - June 2026* | `Python` `Pandas` `Seaborn` `scikit-learn` `Streamlit` `Plotly` | [Demo]()
-
-- Developed an end-to-end customer intelligence platform using unsupervised machine learning to segment e-commerce customers
-- Engineered **RFM (Recency, Frequency, Monetary)** analysis pipeline with **K-Means clustering**, identifying 4 distinct customer segments: High-Value, Regular, Occasional, and At-Risk shoppers
-- Implemented **Item-based Collaborative Filtering** for product recommendations, achieving **90%+ similarity accuracy** across 5,000+ unique products and 5,000,000+ transaction records
-
----
-
-## 📜 Certifications
-
-- **Microsoft SC-900** (Microsoft Security, Compliance, Identity) - *June 2025*
-- **Applied Machine Learning in Python** - Coursera - *December 2025*
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%234285F4.svg?style=flat&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
 
 ---
-
 ## 🏆 Achievements
 
 - 📄 Co-authored **"AGRI-PREDICT: AI-Driven Framework for Crop Price Forecasting using ML & Time-Series Analysis"** published in **IJIRT**

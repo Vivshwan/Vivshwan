@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vivshwan Krishna Tomar!
 
-🎓 **B.Tech Student** (2023-2027) | **CGPA: 8.20**  
+🎓 **B.Tech Student** (2023-2027) | **CGPA: 8.22**  
 🤖 Passionate about **Machine Learning**, **Deep Learning**, and **Generative AI**  
 🚀 Building real-world AI solutions with production-grade deployments
 
